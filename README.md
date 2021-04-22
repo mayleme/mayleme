@@ -6,6 +6,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/may_amleme)](https://twitter.com/may_amleme)
 
 
+<a href="https://www.buymeacoffee.com/mayleme"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer &emoji=🍺&slug=mayleme&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff"></a>
+
 
 - 📫 How to reach me **mayara.amleme@gmail.com**
 
